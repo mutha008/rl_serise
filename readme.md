@@ -52,13 +52,13 @@ r：折现系数
 
 ### U：价值
 
-![QQ图片20171210143327](.\QQ图片20171210143327.png)
+![QQ图片20171210143327](https://github.com/mutha008/rl_serise/blob/master/QQ图片20171210143327.png)
 
 ### 
 
 ### Bellman equation 贝尔曼方程
 
-![](.\QQ图片20171210143138.png)
+![](https://github.com/mutha008/rl_serise/blob/master/QQ图片20171210143138.png)
 
 ### Delta rule
 
@@ -70,17 +70,17 @@ r：折现系数
 
 delta rule应用到bellman condition 寻找最优路径
 
-![QQ图片20171210144551](.\QQ图片20171210144551.png)
+![QQ图片20171210144551](https://github.com/mutha008/rl_serise/blob/master/QQ图片20171210144551.png)
 
 U值rule学习
 
-![QQ图片20171210145505](.\QQ图片20171210145505.png)
+![QQ图片20171210145505](https://github.com/mutha008/rl_serise/blob/master/QQ图片20171210145505.png)
 
 其中不需要state transitions，称为model-free learning
 
 ### Q value
 
-![QQ图片20171210145649](.\QQ图片20171210145649.png)
+![QQ图片20171210145649](https://github.com/mutha008/rl_serise/blob/master/QQ图片20171210145649.png)
 
 
 
@@ -88,11 +88,11 @@ U值rule学习
 
 添加探索exploration ,   相对于exploitation
 
-![QQ图片20171210150204](.\QQ图片20171210150204.png)
+![QQ图片20171210150204](https://github.com/mutha008/rl_serise/blob/master/QQ图片20171210150204.png)
 
 ## Q learning算法描述
 
 
 
-![u=771899190,3095662949&fm=173&app=25&f=JPEG](.\u=771899190,3095662949&fm=173&app=25&f=JPEG.jpg)
+![u=771899190,3095662949&fm=173&app=25&f=JPEG](https://github.com/mutha008/rl_serise/blob/master/u=771899190,3095662949&fm=173&app=25&f=JPEG.jpg)
 
