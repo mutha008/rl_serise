@@ -52,7 +52,7 @@ r：折现系数
 
 ### U：价值
 
-![QQ图片20171210143327](.\QQ图片20171210143327.png)
+![QQ图片20171210143327](https://github.com/mutha008/rl_serise/blob/master/QQ图片20171210143327.png)
 
 ### 
 
