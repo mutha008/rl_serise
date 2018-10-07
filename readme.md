@@ -108,8 +108,6 @@ U值rule学习
 
 ## DQN
 
-google  openai
-
 ![20170612221553966](https://github.com/mutha008/rl_serise/blob/master/20170612221553966.jpg)
 
 ## Double-DQN
