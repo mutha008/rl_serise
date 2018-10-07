@@ -96,3 +96,46 @@ U值rule学习
 
 ![u=771899190,3095662949&fm=173&app=25&f=JPEG](https://github.com/mutha008/rl_serise/blob/master/u=771899190,3095662949&fm=173&app=25&f=JPEG.jpg)
 
+
+
+## Sarsa
+
+在线学习：每次更新q表不用max，直接用q(next_A, next_S) ， next_A来自策略P下的next_S
+
+## Sarsa(λ)
+
+每次更新q表λ步
+
+## DQN
+
+google  openai
+
+![20170612221553966](https://github.com/mutha008/rl_serise/blob/master/20170612221553966.jpg)
+
+## Double-DQN
+
+解决过大估计Q值的问题
+
+与DQN的区别在于q_target的更新方式  [PDF](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Applications_files/doubledqn.pdf)
+
+![ddqn](https://github.com/mutha008/rl_serise/blob/master/ddqn.PNG)
+
+##  Dueling-DQN
+
+[PDF](https://arxiv.org/abs/1511.06581)
+
+
+
+## **Prioritized Experience Replay** 
+
+TD-ERROR=Q现实-Q预测  ，绝对值越大的样本被抽取出来训练的概率越大，加快了最优策略的学习。
+
+
+
+## Policy Gradients
+
+基于行为的奖惩
+
+
+
+## Actor Critic
